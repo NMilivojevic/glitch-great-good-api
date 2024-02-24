@@ -54,3 +54,8 @@ Error handling might be omitted or kept minimal to streamline development effort
 -   **cors**: Middleware for enabling Cross-Origin Resource Sharing (CORS) to allow requests from different origins.
 -   **dotenv**: Library for loading environment variables from a `.env` file.
 -   **web3**: Ethereum JavaScript API for interacting with Ethereum nodes.
+
+## Demo
+
+-   Check out the live demo of the React app hosted on Glitch: [Great Good App](https://great-good-app.glitch.me/)
+-   The backend API hosted on Glitch: [Great Good API](https://great-good-api.glitch.me/)
