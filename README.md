@@ -23,6 +23,10 @@ The project is structured as follows:
 -   `controllers`: Handles HTTP request/response logic.
 -   `routes`: Defines API endpoints and routes requests to the appropriate controllers.
 
+## Polygon Mumbai Test Network Connection
+
+The backend service connects to the Polygon Mumbai Test Network using the Infura endpoint.
+
 ## Flow for Balance Retrieval
 
 1. **Service Layer**:
